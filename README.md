@@ -52,14 +52,13 @@ python main.py --file data/sample/ecommerce_sample.csv
 
 ## Example
 
-```text
 "Find variables most correlated with revenue"
 
 → Analyze data
 → Calculate correlations
 → Return results
 → Generate insights
-```
+
 
 ## Project Structure
 
@@ -77,5 +76,3 @@ src/
 
 MIT
 
-```
-```
