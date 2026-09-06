@@ -1,4 +1,3 @@
-````markdown
 # E_LENS — E-commerce Analysis AI Agent
 
 AI-powered e-commerce data analysis system built with **LangGraph, LangChain, and Google Gemini**.
