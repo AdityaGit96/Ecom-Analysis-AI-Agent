@@ -31,17 +31,17 @@ Orchestrator
           Final Analysis
 ```
 
-----
+---
 
 ## Tech Stack
 
-AI: LangGraph, LangChain, Google Gemini, LangSmith
-Data: Pandas, NumPy, scikit-learn, LightGBM
-App: Python, Streamlit, FastAPI
-Storage: SQLite, SQLAlchemy
-Reports: ReportLab, WeasyPrint
+**AI**: LangGraph, LangChain, Google Gemini, LangSmith
+**Data**: Pandas, NumPy, scikit-learn, LightGBM
+**App**: Python, Streamlit, FastAPI
+**Storage**: SQLite, SQLAlchemy
+**Reports**: ReportLab, WeasyPrint
 
-----
+---
 
 ## Run
 
