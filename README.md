@@ -39,6 +39,8 @@ Orchestrator
 **Storage:** SQLite, SQLAlchemy
 **Reports:** ReportLab, WeasyPrint
 
+----
+
 ## Run
 
 ```bash
