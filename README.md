@@ -29,42 +29,29 @@ Orchestrator
            Report Agent
                  ↓
           Final Analysis
-````
+Tech Stack
 
-## Tech Stack
+AI: LangGraph, LangChain, Google Gemini, LangSmith
+Data: Pandas, NumPy, scikit-learn, LightGBM
+App: Python, Streamlit, FastAPI
+Storage: SQLite, SQLAlchemy
+Reports: ReportLab, WeasyPrint
 
-**AI**: LangGraph, LangChain, Google Gemini, LangSmith
-**Data**: Pandas, NumPy, scikit-learn, LightGBM
-**App**: Python, Streamlit, FastAPI
-**Storage**: SQLite, SQLAlchemy
-**Reports**: ReportLab, WeasyPrint
-
-----
-
-## Run
-
-```bash
+Run
 git clone https://github.com/AdityaGit96/Ecom-Analysis-AI-Agent.git
 cd Ecom-Analysis-AI-Agent
 
 pip install -r requirements.txt
 
 python main.py --file data/sample/ecommerce_sample.csv
-```
-
-## Example
-
+Example
 "Find variables most correlated with revenue"
 
 → Analyze data
 → Calculate correlations
 → Return results
 → Generate insights
-
-
-## Project Structure
-
-```text
+Project Structure
 src/
 ├── agents/
 ├── tools/
@@ -72,9 +59,6 @@ src/
 ├── graph.py
 ├── state.py
 └── human_in_the_loop.py
-```
-
-## License
+License
 
 MIT
-
