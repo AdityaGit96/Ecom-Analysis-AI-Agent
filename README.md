@@ -35,11 +35,11 @@ Orchestrator
 
 ## Tech Stack
 
-**AI**: LangGraph, LangChain, Google Gemini, LangSmith
-**Data**: Pandas, NumPy, scikit-learn, LightGBM
-**App**: Python, Streamlit, FastAPI
-**Storage**: SQLite, SQLAlchemy
-**Reports**: ReportLab, WeasyPrint
+- **AI**: LangGraph, LangChain, Google Gemini, LangSmith
+- **Data**: Pandas, NumPy, scikit-learn, LightGBM
+- **App**: Python, Streamlit, FastAPI
+- **Storage**: SQLite, SQLAlchemy
+- **Reports**: ReportLab, WeasyPrint
 
 ---
 
@@ -59,10 +59,10 @@ python main.py --file data/sample/ecommerce_sample.csv
 ## Example
 
 "Find variables most correlated with revenue"
-→ Analyze data
-→ Calculate correlations
-→ Return results
-→ Generate insights
+- → Analyze data
+- → Calculate correlations
+- → Return results
+- → Generate insights
 
 ---
 
